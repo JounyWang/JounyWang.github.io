@@ -20,7 +20,7 @@
 <body>
     <style>
         #container {
-            /*background:transparent;*/
+            background:transparent;
             color: #808080;
             font-family:Monospace;
             font-size:13px;
@@ -31,7 +31,7 @@
             overflow: hidden;
         }
         #content {
-            background:transparent;
+
         }
     </style>
     <div class="home-menu">
@@ -45,11 +45,12 @@
             <a href="/feed.xml" target="_blank" style="text-align:right"><img src="http://freefavicons.org/download/rss/rss.ico" alt="" width="22"/></a>
         </div> -->
     </div>
-    <div id="content" style="position: relative;">
+    <div id="container" style="position: relative;">
+    <div id="content" style="position: absolute;" >
         {{ content }}
-        <div id="container" style="position: absolute;"></div>
+        
     </div>
-    
+    </div>
     <script type="text/javascript">
         $(function(){
             $('.home-follow').click(function(e){
