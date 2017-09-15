@@ -20,7 +20,7 @@
 <body>
     <style>
         #container {
-            background:transparent;
+            /*background:transparent;*/
             color: #808080;
             font-family:Monospace;
             font-size:13px;
@@ -29,6 +29,9 @@
             /*background-color: #ffffff;*/
             margin: 0px;
             overflow: hidden;
+        }
+        #content {
+            background:transparent;
         }
     </style>
     <div class="home-menu">
@@ -42,7 +45,8 @@
             <a href="/feed.xml" target="_blank" style="text-align:right"><img src="http://freefavicons.org/download/rss/rss.ico" alt="" width="22"/></a>
         </div> -->
     </div>
-    <div style="position: relative;">{{ content }}
+    <div id="content" style="position: relative;">
+        {{ content }}
         <div id="container" style="position: absolute;"></div>
     </div>
     
