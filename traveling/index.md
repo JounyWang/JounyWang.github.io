@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content project">
+<div class="index-content traveling">
     <div class="section">
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>Blog</span></a></li>
