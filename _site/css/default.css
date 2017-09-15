@@ -86,10 +86,10 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .blog .aside{
     background-image:url(https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*cF2i1ZosSP_UTJig.jpeg);
 }
-.dump .aside{
+.music .aside{
     background-image:url(https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*cF2i1ZosSP_UTJig.jpeg);
 }
-.project .aside{
+.traveling .aside{
     background-image:url('https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*cF2i1ZosSP_UTJig.jpeg')
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
@@ -166,8 +166,8 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .index-content .artical-cate { margin-top:50px; }
 
     .blog .aside,
-    .project .aside,
-    .dump .aside {display:none;background-image:none;}
+    .traveling .aside,
+    .music .aside {display:none;background-image:none;}
 }
 
 @media (max-width: 1020px){
