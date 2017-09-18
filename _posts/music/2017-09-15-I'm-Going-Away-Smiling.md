@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      I'm Going Away Smiling
+title:      I'm Going Away Smiling - Iggy Pop
 category: music
 description: thinking about of life
 ---
