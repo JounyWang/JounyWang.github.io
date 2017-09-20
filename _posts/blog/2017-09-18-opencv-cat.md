@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      OpenCV实时目标检测
+title:      OpenCV 实时目标检测
 category: blog
 description: OpenCV can do everything
 ---
