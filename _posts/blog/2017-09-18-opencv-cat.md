@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      OpenCV与猫脸识别
+title:      OpenCV实时目标检测
 category: blog
 description: OpenCV can do everything
 ---
