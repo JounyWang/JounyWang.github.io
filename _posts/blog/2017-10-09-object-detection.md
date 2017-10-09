@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Tensorflow实现多个物体检测
+title:      Tensorflow 实现多个物体同时检测
 category: blog
 description: The big brother is watching you.
 ---
@@ -84,6 +84,8 @@ description: The big brother is watching you.
 
     IMAGE_SIZE = (12, 8)
 
+执行：
+
     with detection_graph.as_default():
         with tf.Session(graph=detection_graph) as sess:
             # 输入输出张量
@@ -111,4 +113,7 @@ description: The big brother is watching you.
                     line_thickness=1)
                 plt.figure(figsize=IMAGE_SIZE)
                 plt.imshow(image_np)
+
+显示检测结果：
+
     plt.show()
