@@ -1,7 +1,7 @@
 var a_idx = 0;
 jQuery(document).ready(function($) {
     $("body").click(function(e) {
-var a = new Array("Python", "Java", "Go", "Tensorflow", "Hadoop", "Hdfs");
+var a = new Array("Python", "Java", "Tensorflow", "Hadoop", "Hdfs", "好玩吗", "看来好玩");
 var $i = $("<span/>").text(a[a_idx]);
         a_idx = (a_idx + 1) % a.length;
 var x = e.pageX,
