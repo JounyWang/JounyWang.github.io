@@ -8,19 +8,11 @@ description: 1984
 
 整个预告片有两分多钟，我只截取了2:00后的十几秒视频，这就足够了。
 
-点击下方可观看原版
+点击下方可观看原版：
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wujuUmzKmvw?rel=0&amp;showinfo=0&amp;start=121" frameborder="0" allowfullscreen></iframe>
 
 
-我们将其下载到本地。
-
-
 我们来看最终检测效果：
 
-<iframe width="560" height="315" src="https://github.com/JounyWang/JounyWang.github.io/raw/master/_posts/blog/video/TheBourneLegacy_output_water.mp4" frameborder="0" allowfullscreen></iframe>
-
-
-<video width="480" height="320" controls>
-<source src="https://github.com/JounyWang/JounyWang.github.io/raw/master/_posts/blog/video/TheBourneLegacy_output_water.mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIGdj51ir3g?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allowfullscreen></iframe>
