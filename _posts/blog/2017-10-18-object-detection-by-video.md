@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      使用Tensorflow实现视频内容实时检测
+title:      Tensorflow实现视频内容实时检测
 category: blog
 description: 1984
 ---
@@ -12,7 +12,8 @@ description: 1984
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wujuUmzKmvw?rel=0&amp;showinfo=0&amp;start=121" frameborder="0" allowfullscreen></iframe>
 
+***
 
-我们来看最终检测效果：
+将检测完成的视频上传至Youtube，我们来看最终检测效果：
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OIGdj51ir3g?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allowfullscreen></iframe>
