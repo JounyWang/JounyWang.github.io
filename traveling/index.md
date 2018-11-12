@@ -2,18 +2,18 @@
 layout: home
 ---
 
-<div class="index-content traveling">
+<div class="index-content travel">
     <div class="section">
         <ul class="artical-cate">
             <li ><a href="/"><span>Blog</span></a></li>
             <li style="text-align:center"><a href="/music"><span>Music</span></a></li>
-            <li class="on" style="text-align:right"><a href="/traveling"><span>Traveling</span></a></li>
+            <li class="on" style="text-align:right"><a href="/travel"><span>Travel</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.traveling %}
+        {% for post in site.categories.travel %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>
