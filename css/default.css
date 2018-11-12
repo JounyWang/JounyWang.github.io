@@ -89,7 +89,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .music .aside{
     background-image:url(https://raw.githubusercontent.com/JounyWang/JounyWang.github.io/master/images/tree.jpg);
 }
-.traveling .aside{
+.travel .aside{
     background-image:url('https://raw.githubusercontent.com/JounyWang/JounyWang.github.io/master/images/tree.jpg')
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
@@ -166,7 +166,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .index-content .artical-cate { margin-top:50px; }
 
     .blog .aside,
-    .traveling .aside,
+    .travel .aside,
     .music .aside {display:none;background-image:none;}
 }
 
