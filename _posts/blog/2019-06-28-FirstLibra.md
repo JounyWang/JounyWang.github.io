@@ -5,9 +5,12 @@ category: blog
 description: 天秤座
 ---
 
+
 # 第一笔交易 · Libra
 
+
 这篇文章将尝试在 Libra 区块链上进行第一笔交易。
+
 
 在开始之前确保你对 Libra 有基本的了解。
 
@@ -18,10 +21,10 @@ description: 天秤座
   * 确保操作系统为 Linux or macOS
   * 稳定的网络环境
   * git 已安装
-  * Homebrew is installed on a macOS system.
   * `yum`or `apt-get` 已安装 Linux system.
 
 从我的情况来看，整个流程会占用约8G存储，请提前确保存储情况，保留冗余。内存不要太小，可能会死机。
+
 
 ## 提交交易的所需步骤
 
