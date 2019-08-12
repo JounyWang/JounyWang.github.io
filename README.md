@@ -1,2 +1,2 @@
 # JounyWang.github.io
-http://www.linjie.fun/
+http://www.linjie.ml
