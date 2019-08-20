@@ -6,7 +6,8 @@ description: 来印度之前的计划是待两个星期，离开时，已是两�
 published: true
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=26193975&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" src="//music.163.com/outchain/player?type=2&id=425988064&auto=1&height=66"></iframe>
+
 
 对于印度，实在很难用好还是不好、喜欢或不喜欢这么空泛的概念来形容它。有人惊叹印度的人文，也有人鄙视它的脏乱，有人痴迷印度的历史，也有人厌恶它的落后。总之，有一千个游客，就有一千个印度。所以马克.吐温曾感慨道：“对印度的任何评价都是正确的，但是相反的观点可能也是正确的，因为它太复杂了。”
 
