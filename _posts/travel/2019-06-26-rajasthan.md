@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      迷失在彩色印度 - 四色城之粉城、蓝城 
+title:      四色城之粉城、蓝城 
 category: travel
-description: 来印度之前的计划是待两个星期，离开时，已是两个月后。
+description: 计划是待两个星期，离开时，已是两个月后
 published: true
 ---
 
