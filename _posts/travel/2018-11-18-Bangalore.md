@@ -5,6 +5,13 @@ category: travel
 description: 走走停停
 ---
 
+<div align="center">
+<audio autoplay preload="auto" controls loop id="audio">
+<source src="music/bgMusic.ogg" type="audio/ogg"/>
+<source src="https://dn-shimo-attachment.qbox.me/kXVZfRCtdPoILK9Y/danshenlvji.mp3" type="audio/mpeg">
+</audio>
+</div>
+
 ![](https://ae01.alicdn.com/kf/H1a691d06c2164c918e4826e779089001s.jpg)
 
  - 公园与网球比赛
